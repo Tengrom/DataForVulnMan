@@ -1,85 +1,19 @@
-# Frameworks for Vulnerability management based on Data science  
+# Amon items analisys 
 
 ## Intro: 
+Item analysis refers to the process of statistically analyzing assessment data to evaluate the quality and performance of your test items. Chart used in  notebook. It  include all Data science steps and below data presentations:
 
-Main goal of this project is defining framework for Vulnerability management based on Data Science. It includes: 
+* Treemap -  Visualization composed of nested rectangles. Main Rectangles are software with contain smaller  rectangles with are CVE for those software. Size of rectangle are number of host with have those CVE and color is responsible for criticality level of CVE 
 
-* Propose of Vulnerability management process description 
+![Process](https://lh3.googleusercontent.com/pw/ABLVV85zxhaCTs1R0OzENG10KLLsPu7whuliH6b7M-4JoGZAcInBVIUZKproOfAgCEI9sUbx_620mdGc8BnoD_ihA1AlyJ-hf6IoD-8TGEM1J8L8kmI3YooyNEEspAfuLPxI6MWV8WNVZ0DQ4CaYZwcNtfYgaA=w755-h424-s-no-gm?authuser=0)
 
-* Propose of maturity level  
+* Bar chart that represents the number of vulnerabilities divided into attack vectors:
+![Process](https://lh3.googleusercontent.com/pw/ABLVV87TlAuCzCmN5ppfCL5L3riC3Pf1NkdW264gXPNRJoaIeGySWq3xU8_xwGVFBjo830OGAWbBpi-miEl2AflOOtg0R6sw9pb-fKAl7s5--CZayMCeRVsxH_tDJWXpyHFTXzcs74QEFzXtB0WEYnfAAINjJQ=w831-h398-s-no-gm?authuser=0)
 
-* framework in Jupyter notebook free for use.   
+* Bar chart that represents the number of vulnerabilities divided by the year they were registered:
+![Process](https://lh3.googleusercontent.com/pw/ABLVV862wb4zcl2eKaX10rVkAoX_H0thGuReKs8NGLNI9Ri28FNs2m8UCVjTgmj9jHWUnngP9HlUhPo4fXXsZxtjO87hjOxu7GsnND3qS6MST6ioidcpkPI8TGRkSQWNIxLyQjFcH83NZY0J7-0LgdA5KJj21Q=w742-h347-s-no-gm?authuser=0)
 
-I encourage Everyone for collaboration to build more standardize and usefulness frameworks for different use cases for Vulnerability management.  
+* Pie graph that represents the number of vulnerabilities divided by criticality
 
-##  Process: 
+![Process](https://lh3.googleusercontent.com/pw/ABLVV85onOhXaAtS_3zfyHPVKn3FqUGKy68n7j9Nglimfl0bwe0jaZgb8b2Ih5yDF-oAysa6mIJEHkwE4UDfs70PfMNLijchpS_reD-oiqUfnfdBfVml5p3yW_dTGbr77dWkOPH6euelD4IkiEOn0gYxEZgGoQ=w831-h433-s-no-gm?authuser=0)
 
-Process is based on Data Science process: 
-![Process](https://lh3.googleusercontent.com/pw/ADCreHf53bFBVWybp_M10SDVGECA013VpJjo6IIT25UsqNDLa6bQ0_aIDn7G0Us_JenCIpbY4cIzyvoJZrSnaBuJgg13cXqr9Tv__lPZNSVY366QHLrGbQwaVPOpEVd0-a8LKMPxlOCgmFeSHbwrbRoJ5GnUQg=w1338-h324-s-no-gm?authuser=0)
-### Data collection: 
-
-IT can be scanning or collecting data from different sources: 
-
-* Scanning without authorisation 
-
-* Scanning with high privileges authorization 
-
-* Scanning local system by installed agent 
-
-* Passive scanning of capture traffic  
-
-* Gathering application version by SCCM or other tools.  
-
-* Other sources like proxy server with capturing information about version browser and system versions.  
-
-* Analysing protocols on network like If device is responding with only SMBv1 version it means that it’s quite old and vulnerable.   
-
-###  Data Discovery:
-
-First fast analytics: 
-
-* Checking summary numbers: Total numbers of vulnerabilities, hosts.  
-
-* Number of duplicated entries in CVE or hosts.  
-
-* Top CVE, per software name or detection source. Top hosts per os and name 
-
-Most issues found in that step: 
-
-* Small numbers of detected vulnerabilities or small numbers of detected hosts - issue with data sources or connector 
-
-* Multiple duplications – issue with connector 
-
-### Data cleansing  
-
-Semi manual analysis: 
-
-* Checking if numbers are correct with number of hosts with other sources like Active Directory, clients using proxy, Firewalls  
-
-* Checking if detected vulnerabilities could be false positives 
-
-* Tree map to visualise distribution CVE per application.  It can provide information about disproportion of your data for example discover only vulnerability related with one application, lack vulnerability for local installed applications 
-
- 
-
-### Data structuring  
-
-* Adding tags with corresponding to the owners of sites, applications, hosts 
-
-### Data transformation and enrichment: 
-
-* Adding information about host criticality, expose ,  role 
-
-* Adding information from company Threat intel  like  if CVe is currently exploiting  
-* all data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
- 
-
-### Data validation 
-
-* Prepare reports and visualisation 
-
-* Presenting finding to correct BU and investigate  
-
-## Vulnerability management Maturity level 
-In  progress
- 
