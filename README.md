@@ -71,7 +71,8 @@ Semi manual analysis:
 * Adding information about host criticality, expose ,  role 
 
 * Adding information from company Threat intel  like  if CVe is currently exploiting  
-* all data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
+* All data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
+* Mapping MITRE ATT&CK® to CVEs for Impact  https://github.com/center-for-threat-informed-defense/attack_to_cve
  
 
 ### Data validation 
