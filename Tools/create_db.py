@@ -8,7 +8,7 @@ def create_tables(conn):
     """Create tables in the PostgreSQL database"""
     commands = (
         """
-      CREATE TABLE Hosts (
+      CREATE TABLE hosts (
     host_id SERIAL PRIMARY KEY,
     host_name TEXT NOT NULL,
     ip_address INET NOT NULL,
@@ -36,10 +36,11 @@ def create_tables(conn):
     commands3 = (
         """
     CREATE TABLE host_cve (
+    host_cve_id SERIAL PRIMARY KEY,
     host_id INTEGER REFERENCES hosts(host_id),
     cve_id INTEGER REFERENCES cve(cve_id),
-    detection_date DATE NOT NULL,
-    PRIMARY KEY (host_id, cve_id)
+    detection_date DATE NOT NULL
+    
 )
         """)
     cur = conn.cursor()
