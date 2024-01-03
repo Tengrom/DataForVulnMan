@@ -1,4 +1,4 @@
-# Amon items analisys 
+# Among items analisys 
 
 ## Intro: 
 Item analysis refers to the process of statistically analyzing assessment data to evaluate the quality and performance of your test items. Chart used in  notebook. It  include all Data science steps and below data presentations:
