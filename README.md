@@ -7,6 +7,8 @@
  No single tool can address all these challenges alone.  Many companies already use multiple vulnerability scanners and multiple vulnerability management software. This also requires knowledge and a developed standard of operation.
  
  In his project I will try to gather  all this knowledge in one place and propose standards ready to use including data science.  Also will be prepared ready solution to make easier to understand vulnerability managemnt process and to be used by companies that cannot afford expensive software.
+ 
+ Vulnerability management relies on data, so appropriate actions need to be taken, such as data cleaning, grouping, and others. For this I will use the same process as in Data science
 
 Main goal of this project is defining framework for Vulnerability management based on Data Science. It includes: 
 
