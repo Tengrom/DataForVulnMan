@@ -81,6 +81,8 @@ Semi manual analysis:
 * Adding information from company Threat intel  like  if CVe is currently exploiting  
 * All data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
 * Mapping MITRE ATT&CK® to CVEs for Impact  https://github.com/center-for-threat-informed-defense/attack_to_cve
+* https://nucleussec.com/guide-to-CISA-KEV-Enrichment/
+* https://www.first.org/epss/
  
 
 ### Data validation 
