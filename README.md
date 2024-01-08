@@ -8,7 +8,7 @@
  
  In his project I will try to gather  all this knowledge in one place and propose standards ready to use including data science.  Also will be prepared ready solution to make easier to understand vulnerability managemnt process and to be used by companies that cannot afford expensive software.
  
- Vulnerability management relies on data, so appropriate actions need to be taken, such as data cleaning, grouping, and others. For this I will use the same process as in Data science
+ Vulnerability management relies on data, so appropriate actions need to be taken, such as data cleaning, grouping, and others. For this I will use the same process as in Data science. Data quality and security are the most important when managing vulnerabilities and they occur frequently in it errors that accumulate later. therefore, data must be approached in a systematic and proven way
 
 Main goal of this project is defining framework for Vulnerability management based on Data Science. It includes: 
 
