@@ -2,6 +2,8 @@
 
 ## Intro: 
 
+Vulnerability management is not just patching!! but analyzing and managing data and calculating risks based on it !!!
+
  In increasingly complex environments and increasingly frequent of cyber attacks, vulnerability management is becoming an increasingly important and difficult task. I have seen many companies that could be saved from attack by implementing proper vulnerability management. Vulnerability management involves analyzing data from many sources. Thanks to this data, we can optimize our activities and identify our gaps.
  
  No single tool can address all these challenges alone.  Many companies already use multiple vulnerability scanners and multiple vulnerability management software. This also requires knowledge and a developed standard of operation.
