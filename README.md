@@ -74,8 +74,7 @@ Semi manual analysis:
 
 * Adding tags with corresponding to the owners of sites, applications, hosts 
 
-### Data transformation and enrichment: 
-
+### Data transformation and enrichment(in Progress): 
 * Adding information about host criticality, expose ,  role 
 
 * Adding information from company Threat intel  like  if CVe is currently exploiting  
@@ -92,5 +91,12 @@ Semi manual analysis:
 * Presenting finding to correct BU and investigate  
 
 ## Vulnerability management Maturity level 
+
 In  progress
- 
+
+## Project status :
+- Basic  AmongItems  notebook -  Done
+- Basic  OverTime  notebook - In progress
+- Vulnerability management Maturity level - not started
+- Basic RiskCalculation notebook- not started
+- CEO Dashboard with targets - not started 
