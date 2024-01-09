@@ -96,7 +96,7 @@ In  progress
 
 ## Project status :
 #### Phase 1 
-- Vulnerability knowlage base - In progress
+- Vulnerability management knowlage base - In progress
 - Basic  AmongItems  notebook -  Done
 - Basic  OverTime  notebook - In progress
 - Vulnerability management Maturity level - not started
