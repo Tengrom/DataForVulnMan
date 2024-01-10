@@ -24,21 +24,16 @@ Process is based on Data Science process:
 ![Process](https://lh3.googleusercontent.com/pw/ADCreHf53bFBVWybp_M10SDVGECA013VpJjo6IIT25UsqNDLa6bQ0_aIDn7G0Us_JenCIpbY4cIzyvoJZrSnaBuJgg13cXqr9Tv__lPZNSVY366QHLrGbQwaVPOpEVd0-a8LKMPxlOCgmFeSHbwrbRoJ5GnUQg=w1338-h324-s-no-gm?authuser=0)
 ### Data collection: 
 
-IT can be scanning or collecting data from different sources: 
+It can be scanning or collecting data from different sources:
+* Scanning without authorisation
+* Scanning with high privileges authorization
+* Scanning local system by installed agent
+* Passive scanning of capture traffic
+* Gathering application versions by SCCM or other tools.
+* Other sources like proxy servers capture information about version browsers and system versions.
+* Analysing protocols on a network like If the device is responding with only SMBv1 version it means that it’s quite old and vulnerable.
 
-* Scanning without authorisation 
 
-* Scanning with high privileges authorization 
-
-* Scanning local system by installed agent 
-
-* Passive scanning of capture traffic  
-
-* Gathering application version by SCCM or other tools.  
-
-* Other sources like proxy server with capturing information about version browser and system versions.  
-
-* Analysing protocols on network like If device is responding with only SMBv1 version it means that it’s quite old and vulnerable.   
 
 ###  Data Discovery:
 
