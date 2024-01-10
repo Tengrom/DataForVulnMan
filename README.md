@@ -83,6 +83,7 @@ Semi manual analysis:
 * All data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
 * Mapping MITRE ATT&CK® to CVEs for Impact  https://github.com/center-for-threat-informed-defense/attack_to_cve
 * https://nucleussec.com/guide-to-CISA-KEV-Enrichment/
+* https://github.com/jgamblin/CISA_Enrichment
 * https://www.first.org/epss/
  
 
@@ -94,7 +95,11 @@ Semi manual analysis:
 
 ## Vulnerability management Maturity level 
 
-In  progress
+* https://www.sans.org/blog/vulnerability-management-maturity-model/
+* https://www.sans.org/blog/vulnerability-management-maturity-model-part-ii/
+* https://github.com/jonathanristo
+* https://www.sans.org/blog/vmmm-self-assessment-tool/
+* http://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf
 
 ## Project status :
 #### Phase 1 
