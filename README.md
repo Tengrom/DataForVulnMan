@@ -2,6 +2,16 @@
 
 ## Intro: 
 
+Vulnerability management is not just patching!! but gathering,analyzing,managing data and calculating risks based on it !!!
+
+ In increasingly complex environments and increasingly frequent of cyber attacks, vulnerability management is becoming an increasingly important and difficult task. I have seen many companies that could be saved from attack by implementing proper vulnerability management. Vulnerability management involves analyzing data from many sources. Thanks to this data, we can optimize our activities and identify our gaps.
+ 
+ No single tool can address all these challenges alone.  Many companies already use multiple vulnerability scanners and multiple vulnerability management software. This also requires knowledge and a developed standard of operation.
+ 
+ In his project I will try to gather  all this knowledge in one place and propose standards ready to use including data science.  Also will be prepared ready solution to make easier to understand vulnerability managemnt process and to be used by companies that cannot afford expensive software.
+ 
+ Vulnerability management relies on data, so appropriate actions need to be taken, such as data cleaning, grouping, and others. For this I will use the same process as in Data science. Data quality and security are the most important when managing vulnerabilities and they occur frequently in it errors that accumulate later. therefore, data must be approached in a systematic and proven way
+
 Main goal of this project is defining framework for Vulnerability management based on Data Science. It includes: 
 
 * Propose of Vulnerability management process description 
@@ -66,13 +76,15 @@ Semi manual analysis:
 
 * Adding tags with corresponding to the owners of sites, applications, hosts 
 
-### Data transformation and enrichment: 
-
+### Data transformation and enrichment(in Progress): 
 * Adding information about host criticality, expose ,  role 
 
 * Adding information from company Threat intel  like  if CVe is currently exploiting  
 * All data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
 * Mapping MITRE ATT&CK® to CVEs for Impact  https://github.com/center-for-threat-informed-defense/attack_to_cve
+* https://nucleussec.com/guide-to-CISA-KEV-Enrichment/
+* https://github.com/jgamblin/CISA_Enrichment
+* https://www.first.org/epss/
  
 
 ### Data validation 
@@ -82,5 +94,19 @@ Semi manual analysis:
 * Presenting finding to correct BU and investigate  
 
 ## Vulnerability management Maturity level 
-In  progress
- 
+
+* https://www.sans.org/blog/vulnerability-management-maturity-model/
+* https://www.sans.org/blog/vulnerability-management-maturity-model-part-ii/
+* https://github.com/jonathanristo
+* https://www.sans.org/blog/vmmm-self-assessment-tool/
+* http://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf
+
+## Project status :
+#### Phase 1 
+- Vulnerability management knowlage base - In progress
+- Basic  AmongItems  notebook -  In progress
+- Basic  OverTime  notebook - In progress
+- Vulnerability management Maturity level - not started
+- Basic RiskCalculation notebook- not started
+- CEO Dashboard with targets - not started
+
