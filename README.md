@@ -93,6 +93,22 @@ Semi manual analysis:
 * http://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf
 * https://learn.cisecurity.org/cis-controls-download
 
+## Links for free  tools 
+
+### Assets discovery:
+
+* https://nmap.org/
+* https://www.pingcastle.com/
+
+###  Vulnerability scanning
+
+* https://github.com/scipag/vulscan
+* https://www.openvas.org/
+
+### Enrichment
+
+* https://nucleussec.com/
+
 ## Project status :
 #### Phase 1 
 - Vulnerability management knowlage base - In progress
