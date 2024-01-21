@@ -73,7 +73,7 @@ Semi manual analysis:
 * Adding information from company Threat intel  like  if CVe is currently exploiting  
 * All data required by CVSS 4.0 Scoring Calculation https://www.first.org/cvss/v4-0/
 * Mapping MITRE ATT&CK® to CVEs for Impact  https://github.com/center-for-threat-informed-defense/attack_to_cve
-*https://vulcan.io/voyager18/mitre-mapper/
+* https://vulcan.io/voyager18/mitre-mapper/
 * https://nucleussec.com/guide-to-CISA-KEV-Enrichment/
 * https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 * https://github.com/jgamblin/CISA_Enrichment
@@ -95,7 +95,7 @@ Semi manual analysis:
 * http://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf
 * https://learn.cisecurity.org/cis-controls-download
 
-## Links for free  tools 
+## Links to free tools 
 
 #### Assets discovery:
 
