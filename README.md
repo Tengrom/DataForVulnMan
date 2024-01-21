@@ -95,17 +95,19 @@ Semi manual analysis:
 
 ## Links for free  tools 
 
-### Assets discovery:
+#### Assets discovery:
 
 * https://nmap.org/
+* https://www.sans.org/blog/powershell-script-to-parse-nmap-xml-output/
 * https://www.pingcastle.com/
 
-###  Vulnerability scanning
+####  Vulnerability scanning
 
-* https://github.com/scipag/vulscan
+* https://github.com/scipag/vulscan - nmap results analisys 
 * https://www.openvas.org/
+* https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
 
-### Enrichment
+#### Enrichment
 
 * https://nucleussec.com/
 
