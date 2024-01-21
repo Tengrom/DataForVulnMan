@@ -93,6 +93,7 @@ Management:
 
 - List of practical steps [AssetInventory](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/AssetInventory.md) / [VulnScanning](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/VulnScanning.md) / [RiskManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/RiskManagement.md) / [ServiceManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/ServiceManagement.md)
 
+#### Links to Vulnerability management Maturity levels information
 
 * https://www.sans.org/blog/vulnerability-management-maturity-model/
 * https://www.sans.org/blog/vulnerability-management-maturity-model-part-ii/
