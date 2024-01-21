@@ -75,6 +75,7 @@ Semi manual analysis:
 * Mapping MITRE ATT&CK® to CVEs for Impact  https://github.com/center-for-threat-informed-defense/attack_to_cve
 *https://vulcan.io/voyager18/mitre-mapper/
 * https://nucleussec.com/guide-to-CISA-KEV-Enrichment/
+* https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 * https://github.com/jgamblin/CISA_Enrichment
 * https://www.first.org/epss/
  
