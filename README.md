@@ -88,6 +88,12 @@ Semi manual analysis:
 
 ## Vulnerability management Maturity level 
 
+Below are links to great resources related to maturity level vulnerability management. For my part, I can only add a description of the practical steps that are best taken to create an efficient vulnerability management process. I divided them into four stages: Asset inventory, Vulnerability Scanning, Risk Management, Service
+Management:
+
+- List of practical steps [AssetInventory](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/AssetInventory.md) / [VulnScanning](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/VulnScanning.md) / [RiskManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/RiskManagement.md) / [ServiceManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/ServiceManagement.md)
+
+
 * https://www.sans.org/blog/vulnerability-management-maturity-model/
 * https://www.sans.org/blog/vulnerability-management-maturity-model-part-ii/
 * https://github.com/jonathanristo
