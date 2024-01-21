@@ -1,17 +1,13 @@
-# Vulnerability  scanning - List of first steps
-* NMAP scans with gathering banners and other safe  script and protocols  - like if something is smb1 it's  old and big chance to be  vulnerable
+# Risk management - List of first steps
+* Divide vulnerabilities for 3 categories
 
-* Analisys of banners gathered results in CVE by software version
+* Lack   of  patching :  Easy to resolve by deploying patches
 
-* Report all  finding more focusing on outdated components or vulnerabilities with critical  of importance
+* Configuration / Hardening:  Medium level  to resolve hardening  standards
 
-* Agree process and procedure  for managing outdated components and patching of application / devices. Don't forgot about network equipment also
+* Cryptography :  Require cryptography policy and information what type of data is on hosts
 
-* It's ok to use free tools like openvasp but do scans with authentication there will small amount of finding  without authentication to devices.
+* Prepare lists of security control  with could help  mitigate detected vulnerabilities 
 
-* Prepare first analysis of  vulnerability decide is't enough for now or  there is need to buy enterprise solutions .
-
-* The best solution with less overwork and are  solutions with has agents with can be installed on hosts . Some antivirus has already this functionality  base  on that you can  already have results.
-
-* Work on your  pathing process and responsibility of fixing it ,  Just very robust plan what can be done for now and so on what are the gaps .  No big  plans.
+* Start resolving vulnerabilities from first  category with high and critical vulnerabilities and calculate reduction of priority using CVSS calculator https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:H/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:N/SI:N/SA:N
 
