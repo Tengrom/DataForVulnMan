@@ -1,14 +1,6 @@
-# Risk management - List of first steps
-* Divide vulnerabilities for 3 categories
+# Service management - List of first steps
+* KPI – metrics , define targets , CEO reports ,Quality  of services including status of  coverage and reduction of false positives
 
-* Lack   of  patching :  Easy to resolve by deploying patches
+* Meetings with teams with are responsible for assets and patching process
 
-* Configuration / Hardening:  Medium level  to resolve hardening  standards
-
-* Cryptography :  Require cryptography policy and information what type of data is on hosts
-
-* Prepare lists of security control  with could help  mitigate detected vulnerabilities 
-
-* Start resolving vulnerabilities from first  category with high and critical vulnerabilities and calculate reduction of priority using CVSS calculator https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:H/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:N/SI:N/SA:N
-
-
+* Dashboards
