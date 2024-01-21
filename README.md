@@ -109,9 +109,6 @@ Semi manual analysis:
 * https://www.openvas.org/
 * https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
 
-#### Enrichment
-
-* https://nucleussec.com/
 
 ## Project status :
 #### Phase 1 
