@@ -104,18 +104,7 @@ Management:
 
 ## Links to free tools 
 
-#### Assets discovery:
-
-* https://nmap.org/
-* https://www.sans.org/blog/powershell-script-to-parse-nmap-xml-output/
-* https://github.com/delvelabs/batea - Automatically filter interesting network assets in large networks using nmap scan reports
-* https://www.pingcastle.com/
-
-####  Vulnerability scanning
-
-* https://github.com/scipag/vulscan - nmap results analisys 
-* https://www.openvas.org/
-* https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+[Links](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/Links.md) 
 
 
 ## Project status :
