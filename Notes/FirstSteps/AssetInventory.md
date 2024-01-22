@@ -1,5 +1,6 @@
 # Asset inventory - List of first steps . 
-Below steps covers:
+
+### Applied standards:
 
 Contextual Information in  [Maturity Assessment VMMM](https://github.com/jonathanristo/VMMM-self-assessment-tool)
 
@@ -7,7 +8,7 @@ AND
 
 [CISv8](https://learn.cisecurity.org/cis-controls-download) in IG 01 Inventory and Control of Enterprise Assetsand 02 Inventory and Control ofSoftware Assets
 
-Steps:
+### Steps:
 * Gather information about assets from ready source – ActiveDirectory, Network devices(proxy, firewalls , wifi ).  Merge and compare it.
 
 * List of responsible units / people related with devices in your network
