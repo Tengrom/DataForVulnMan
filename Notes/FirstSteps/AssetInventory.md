@@ -23,3 +23,6 @@ AND
 
 * Present you report to all groups agree for responsibility of managing
 
+* Propose and implement plan of taking care of orphaned devices and application in terms of patching.  
+  
+
