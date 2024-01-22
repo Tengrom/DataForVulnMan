@@ -1,4 +1,6 @@
-# Asset inventory - List of first steps
+# Asset inventory - List of first steps . 
+Below steps covers  Contextual Information in  [Maturity Assessment VMMM](https://github.com/jonathanristo/VMMM-self-assessment-tool):
+
 * Gather information about assets from ready source – ActiveDirectory, Network devices(proxy, firewalls , wifi ).  Merge and compare it.
 
 * List of responsible units / people related with devices in your network
