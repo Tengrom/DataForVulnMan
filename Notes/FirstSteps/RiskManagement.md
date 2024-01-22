@@ -1,11 +1,18 @@
 # Risk management - List of first steps
+
+Prioritization in  [Maturity Assessment VMMM](https://github.com/jonathanristo/VMMM-self-assessment-tool)
+
+AND
+
+[CISv8](https://learn.cisecurity.org/cis-controls-download) on IG1 Level - 07 Continuous Vulnerability Management
+
 * Divide vulnerabilities for 3 categories
 
-* Lack   of  patching :  Easy to resolve by deploying patches
+      - Lack   of  patching :  Easy to resolve by deploying patches
 
-* Configuration / Hardening:  Medium level  to resolve hardening  standards
+      - Configuration / Hardening:  Medium level  to resolve hardening  standards
 
-* Cryptography :  Require cryptography policy and information what type of data is on hosts
+      - Cryptography :  Require cryptography policy and information what type of data is on hosts
 
 * Prepare lists of security control  with could help  mitigate detected vulnerabilities 
 
