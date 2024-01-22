@@ -2,7 +2,9 @@
 Below steps covers:
 
 Contextual Information in  [Maturity Assessment VMMM](https://github.com/jonathanristo/VMMM-self-assessment-tool)
+
 AND
+
 [CISv8](https://learn.cisecurity.org/cis-controls-download) in IG 01 Inventory and Control of Enterprise Assetsand 02 Inventory and Control ofSoftware Assets
 
 Steps:
