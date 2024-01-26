@@ -21,6 +21,6 @@ AND
 
 * Prepare lists of security control  with could help  mitigate detected vulnerabilities 
 
-* Start proritizing vulnerabilities with are using by malwares or with public exploit you can also  use CVSS calculator by adding supplemental and environmental scores  [CVSSv4 calculator](https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:H/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:N/SI:N/SA:N) . Example :
+* Start proritizing vulnerabilities with are used by malwares or with public exploit you can also  use CVSS calculator by adding supplemental and environmental scores  [CVSSv4 calculator](https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:A/AC:H/AT:N/PR:N/UI:P/VC:N/VI:N/VA:N/SC:N/SI:N/SA:N) . Example :
         - https://www.youtube.com/watch?v=x3wAINJF7UE - How to  use CVSS 
 
