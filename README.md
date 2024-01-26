@@ -91,7 +91,11 @@ Semi manual analysis:
 Below are links to great resources related to maturity level vulnerability management. I can only add a description of the practical steps that are best taken to create an efficient vulnerability management process. I divided them into four stages: Asset inventory, Vulnerability Scanning, Risk Management, Service
 Management:
 
-- List of practical steps [AssetInventory](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/AssetInventory.md) / [VulnScanning](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/VulnScanning.md) / [RiskManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/RiskManagement.md) / [ServiceManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/ServiceManagement.md)
+- List of practical steps for IT infrastructure  [AssetInventory](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/AssetInventory.md) / [VulnScanning](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/VulnScanning.md) / [RiskManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/RiskManagement.md) / [ServiceManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/ServiceManagement.md)
+
+- List of practical steps for ICS/OT infrastructure  - in progress
+
+- - List of practical steps for application development - in progress
 
 #### Links to Vulnerability management Maturity levels information
 
