@@ -109,7 +109,7 @@ Management:
 * http://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf
 * https://learn.cisecurity.org/cis-controls-download
 
-## Links to free tools 
+## Links to various applications and tools
 
 [Links](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/Links.md) 
 
