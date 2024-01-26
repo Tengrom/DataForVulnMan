@@ -9,13 +9,13 @@ AND
 [CISv8](https://learn.cisecurity.org/cis-controls-download) on IG1 Level - 01 Inventory and Control of Enterprise Assetsand and 02 Inventory and Control ofSoftware Assets
 
 ### Steps:
-* Gather information about assets from ready source – ActiveDirectory, Network devices(proxy, firewalls , wifi ).  Merge and compare it.
+* Gather information about assets from existing source – ActiveDirectory, Network devices(proxy, firewalls , wifi ).  Merge and compare it.
 
-* List of responsible units / people related with devices in your network
+* Create List of responsible units / people related with devices in your network
 
-* Nmap scans, www.pingcastle.com ping sweeps  or other free software
+* Network and passive scans using : Nmap scans, www.pingcastle.com ping sweeps , Security onion  or other free software
 
-* Compare list of scans with previous list and find differences Analize it and draw your own conclusions why there is differences
+* Compare list of scans with previous list and find differences, Analize it and draw your own conclusions why there is differences
 
 * Nmap  scans with banner grabbing and safe scripts
 
