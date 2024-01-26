@@ -8,16 +8,16 @@ AND
 
 * Divide vulnerabilities for 3 categories 
 
-      - Lack   of  patching :  Easy to resolve by deploying patches
+      1. Lack   of  patching :  Easy to resolve by deploying patches
 
-      - Configuration / Hardening:  Medium level  to resolve by implementing configuration/Hardening standards. Examples of weak configuration:
+      2. Vulnerabilities realted with weak or missconfiguration:  Medium level  to resolve by implementing configuration/Hardening standards. Examples of weak configuration:
               - Open permisions
               - Unsecured privilage access
               - Errors ( how they are handled)
               - Unsecure protocols
               - Default settings
    
-      - Cryptography :  Require cryptography policy and information what type of data is on hosts
+      3. Vulnerabilities realted with  Cryptography :  Require cryptography policy and information what type of data is on hosts
 
 * Prepare lists of security control  with could help  mitigate detected vulnerabilities 
 
