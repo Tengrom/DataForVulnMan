@@ -95,7 +95,7 @@ Management:
 
 - List of practical steps for ICS/OT infrastructure  - in progress
 
-- - List of practical steps for application development - in progress
+- List of practical steps for application development - in progress
 
 #### Links to Vulnerability management Maturity levels information
 
