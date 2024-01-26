@@ -12,6 +12,7 @@
 * https://github.com/scipag/vulscan - nmap results analisys 
 * https://www.openvas.org/
 * https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+* https://github.com/wazuh/wazuh -  local hosts Configuration assessment and Vulnerability detection
 
 ## Links to commercial tools 
 
