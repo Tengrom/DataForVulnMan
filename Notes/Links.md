@@ -18,7 +18,7 @@
 
 #### Risk-Based Vulnerability management
 
-*https://owasp.org/www-project-vulnerability-management-center/
+* https://owasp.org/www-project-vulnerability-management-center/
 
 ## Links to commercial tools 
 
