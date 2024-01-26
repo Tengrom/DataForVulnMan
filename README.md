@@ -13,10 +13,11 @@ Vulnerability management is not just patching, but gathering, analyzing, managin
  Vulnerability management relies on data, so appropriate actions need to be taken, such as data cleaning, grouping, and others. For this, I will use the same process as in Data science. Data quality and security are the most important when managing vulnerabilities and they occur frequently in it errors that accumulate later. therefore, data must be approached in a systematic and proven way
 
  The main goal of this project is to define a framework for Vulnerability management based on Data Science. It includes:
-* Propose of Vulnerability management process description
-* Propose of maturity level
-* framework in Jupyter Notebook free for use.
-  
+ 
+* Propose of standard for how data should be collected, prepared and understood in Vulnerability management based on Data sciencie 
+* Propose  new analysis possibilities with examples of framework in Jupyter Notebook free for use.
+* Collecting the most important information, examples, standards and references to various applications and information needed in vulnerability management in one place
+    
 I encourage Everyone to collaboration to build more standardised and usefulness frameworks for different use cases for Vulnerability management.
 ##  Process: 
 
