@@ -16,6 +16,10 @@
 * https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
 * https://github.com/wazuh/wazuh -  local hosts Configuration assessment and Vulnerability detection
 
+#### Risk-Based Vulnerability management
+
+*https://owasp.org/www-project-vulnerability-management-center/
+
 ## Links to commercial tools 
 
 #### Vulnerability scanning
