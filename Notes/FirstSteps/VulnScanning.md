@@ -1,4 +1,15 @@
 # Vulnerability  scanning - List of first steps
+
+### Applied standards:
+
+Automated Identification in  [Maturity Assessment VMMM](https://github.com/jonathanristo/VMMM-self-assessment-tool)
+
+AND
+
+[CISv8](https://learn.cisecurity.org/cis-controls-download) on IG1 Level - 07 Continuous Vulnerability Management
+
+### Steps:
+
 * NMAP scans with gathering banners and other safe  script and protocols  - like if something is smb1 it's  old and big chance to be  vulnerable
 
 * Analisys of banners gathered results in CVE by software version

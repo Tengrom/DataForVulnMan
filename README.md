@@ -12,11 +12,14 @@ Vulnerability management is not just patching, but gathering, analyzing, managin
 
  Vulnerability management relies on data, so appropriate actions need to be taken, such as data cleaning, grouping, and others. For this, I will use the same process as in Data science. Data quality and security are the most important when managing vulnerabilities and they occur frequently in it errors that accumulate later. therefore, data must be approached in a systematic and proven way
 
- The main goal of this project is to define a framework for Vulnerability management based on Data Science. It includes:
-* Propose of Vulnerability management process description
-* Propose of maturity level
-* framework in Jupyter Notebook free for use.
-  
+## The main goal of this project 
+
+Define a framework for Vulnerability management based on Data Science. It includes:
+ 
+* Propose of standard for how data should be collected, prepared and understood in Vulnerability management based on Data sciencie 
+* Propose  new analysis possibilities with examples of framework in Jupyter Notebook free for use.
+* Collecting the most important information, examples, standards and references to various applications and information needed in vulnerability management in one place
+    
 I encourage Everyone to collaboration to build more standardised and usefulness frameworks for different use cases for Vulnerability management.
 ##  Process: 
 
@@ -91,7 +94,11 @@ Semi manual analysis:
 Below are links to great resources related to maturity level vulnerability management. I can only add a description of the practical steps that are best taken to create an efficient vulnerability management process. I divided them into four stages: Asset inventory, Vulnerability Scanning, Risk Management, Service
 Management:
 
-- List of practical steps [AssetInventory](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/AssetInventory.md) / [VulnScanning](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/VulnScanning.md) / [RiskManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/RiskManagement.md) / [ServiceManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/ServiceManagement.md)
+- List of practical steps for IT infrastructure  [AssetInventory](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/AssetInventory.md) / [VulnScanning](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/VulnScanning.md) / [RiskManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/RiskManagement.md) / [ServiceManagement](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/FirstSteps/ServiceManagement.md)
+
+- List of practical steps for ICS/OT infrastructure  - in progress
+
+- List of practical steps for application development - in progress
 
 #### Links to Vulnerability management Maturity levels information
 
@@ -102,20 +109,9 @@ Management:
 * http://docs.media.bitpipe.com/io_12x/io_120436/item_1066724/TVM%20Maturity%20Model%20WP%202014-10.pdf
 * https://learn.cisecurity.org/cis-controls-download
 
-## Links to free tools 
+## Links to various applications and tools
 
-#### Assets discovery:
-
-* https://nmap.org/
-* https://www.sans.org/blog/powershell-script-to-parse-nmap-xml-output/
-* https://github.com/delvelabs/batea - Automatically filter interesting network assets in large networks using nmap scan reports
-* https://www.pingcastle.com/
-
-####  Vulnerability scanning
-
-* https://github.com/scipag/vulscan - nmap results analisys 
-* https://www.openvas.org/
-* https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+[Links](https://github.com/Tengrom/DataForVulnMan/blob/main/Notes/Links.md) 
 
 
 ## Project status :
