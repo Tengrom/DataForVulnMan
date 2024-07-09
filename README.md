@@ -81,6 +81,7 @@ Semi manual analysis:
 * https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 * https://github.com/jgamblin/CISA_Enrichment
 * https://www.first.org/epss/
+* https://cwe.mitre.org/index.html
  
 
 ### Data validation 
